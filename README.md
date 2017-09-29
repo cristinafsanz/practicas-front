@@ -14,6 +14,8 @@
 
 - GitHub: https://github.com/cristinafsanz/mastering-github
 
+- GitHub Pages: https://github.com/cristinafsanz/github-pages
+
 ## Entorno y organización
 
 - Entorno para desarrollo: https://github.com/cristinafsanz/setup
